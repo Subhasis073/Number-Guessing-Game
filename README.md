@@ -11,13 +11,13 @@ Through this project, I gained hands-on experience with several core and interme
 
 **Concept & Description**
 
-Functions & Code Reusability - Implemented modular functions like check_answer() and set_difficulty() to make the code clean and maintainable.
-Conditional Statements (if-elif-else) -	Used branching logic to compare user input with the actual number and provide feedback accordingly.
-Random Number Generation -	Utilized Python’s built-in random module to generate unpredictable numbers for gameplay.
-While Loops & Game Flow Control - Created a controlled loop to manage player attempts until the game ends.
-Difficulty Settings - Added “easy” and “hard” modes with different attempt limits to improve interactivity.
-Importing External Modules - Imported a custom art module for displaying a logo and enhanced console aesthetics.
-User Input Validation -	Reinforced learning of input() and integer typecasting for robust user interaction.
+1. Functions & Code Reusability - Implemented modular functions like check_answer() and set_difficulty() to make the code clean and maintainable.
+2. Conditional Statements (if-elif-else) -	Used branching logic to compare user input with the actual number and provide feedback accordingly.
+3. Random Number Generation -	Utilized Python’s built-in random module to generate unpredictable numbers for gameplay.
+4. While Loops & Game Flow Control - Created a controlled loop to manage player attempts until the game ends.
+5. Difficulty Settings - Added “easy” and “hard” modes with different attempt limits to improve interactivity.
+6. Importing External Modules - Imported a custom art module for displaying a logo and enhanced console aesthetics.
+7. User Input Validation -	Reinforced learning of input() and integer typecasting for robust user interaction.
 
 This project deepened my understanding of control structures, function design, and user-driven logic, which are key in scalable software development.
 
